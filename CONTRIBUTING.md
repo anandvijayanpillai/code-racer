@@ -26,7 +26,7 @@ Commit: [2] feat: add docker container for postgres
 
 You will need to [install docker](https://www.docker.com/get-started/) on your local machine.
 
-If you do not have docker, go here to download and install: <https://www.docker.com/get-started/>
+If you do not have docker, go here to download and install: <P>
 
 If you see error starting db on M1 mac, you may need to update your docker config file at `~/.docker/config.json`
 Your file should look like something like this:
@@ -44,7 +44,7 @@ If you are getting WSL error when you launch your desktop docker application, go
 
 To get started with Code Racer locally, follow these steps
 
-1. Make sure you have installed Docker locally (See above Prerequisites)
+1. Make sure you have installed Docker locally (See the above Prerequisites)
 
 2. Fork the repo
 
